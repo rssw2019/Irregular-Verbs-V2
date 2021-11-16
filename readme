@@ -1,2 +1,2 @@
-This will generate a quiz on the irregular verb V3. The quiz can be accessed from the following link.
+This project creates a multiple choice quiz on English irregular verbs by randomly selecting 10 questions from a pool of questions using JavaScript codes. The choices are randomly ordered for each question. After each submission, answer feedback will be shown with the correct answer. The score is dynamically updated as the quiz progresses. A summary of the result will be displayed after the quiz is completed. This quiz can be taken multiple times. The quiz questions will be different at each attempt. The quiz can be takena by visitig the following link.
  https://rssw2019.github.io/Irregular-Verbs-V2/ 
