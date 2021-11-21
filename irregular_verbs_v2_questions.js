@@ -1,3 +1,9 @@
+let title="Irregular Verbs V2 Quiz";
+
+let instructions = `<p> Welcome to the Irregular Verbs V2 Quiz. You will be asked 10 questions in this quiz. You can take this quiz multiple times.</p> <p><button onclick="quizGenerator()"><p>Begin the Quiz</p></button></p>`;
+
+let question_title=`<p> Q. Chose the V2 (past participle) form of the given verb: </p><p> &nbsp; &nbsp; &nbsp;`
+
 let questions =
 [
 {"question":"arise","answer":"arose","choices":["arise","arisen","arose","ariseed","ariseought"]},
